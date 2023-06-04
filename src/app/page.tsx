@@ -1,3 +1,7 @@
 export default function Home() {
-  return <main>home page</main>
+  return (
+    <main className='grow bg-blue-500'>
+      <span>home page</span>
+    </main>
+  )
 }
