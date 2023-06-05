@@ -8,7 +8,7 @@ interface Props {
 function RootLayout({ children }: Props) {
   return (
     <html lang='en'>
-      <body className='flex min-h-screen flex-wrap bg-slate-950 text-white'>
+      <body className='mx-auto grid min-h-screen bg-slate-950 text-white md:grid-cols-[1fr_3fr] 2xl:max-w-screen-2xl'>
         <Header />
         {children}
       </body>

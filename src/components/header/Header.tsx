@@ -3,7 +3,7 @@ import clsx from 'clsx'
 
 function Header() {
   const classes = {
-    header: clsx('flex flex-col gap-y-2 p-5 md:max-w-xs'),
+    header: clsx('flex flex-col gap-y-2 p-5'),
     title: clsx('text-lg font-bold'),
     paragraph: clsx('text-base')
   }
