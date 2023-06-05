@@ -2,7 +2,7 @@ import { Gallery } from '@/components'
 
 export default function Home() {
   return (
-    <main className='grow'>
+    <main>
       <Gallery />
     </main>
   )
