@@ -1,3 +1,9 @@
+import { Gallery } from '@/components'
+
 export default function Home() {
-  return <main>home page</main>
+  return (
+    <main>
+      <Gallery />
+    </main>
+  )
 }
