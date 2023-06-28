@@ -1,4 +1,6 @@
 export { default as Gallery } from './gallery/Gallery'
 export { default as Header } from './header/Header'
 export { default as LogoIcon } from './icons/LogoIcon'
+export { default as GallerySkeleton } from './skeleton/GallerySkeleton'
+export { default as ImageSkeleton } from './skeleton/ImageSkeleton'
 export { default as SocialLinks } from './social/SocialLinks'
