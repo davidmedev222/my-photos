@@ -18,6 +18,8 @@ Landing Page designed exclusively to showcase photographs, focused on providing 
 
 ![](https://res.cloudinary.com/dos3i5jqy/image/upload/v1686962504/layers/myphotos/my-photos1_icw9dp.jpg)
 ![](https://res.cloudinary.com/dos3i5jqy/image/upload/v1686962502/layers/myphotos/my-photos2_c0ujou.jpg)
+![](https://res.cloudinary.com/dos3i5jqy/image/upload/v1687996814/layers/myphotos/my-photos3_polkhg.jpg)
+![](https://res.cloudinary.com/dos3i5jqy/image/upload/v1687996813/layers/myphotos/my-photos4_onlbkl.jpg)
 
 # **💬TECHNOLOGIES USED**
 
