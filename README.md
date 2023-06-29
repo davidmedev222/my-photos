@@ -23,4 +23,4 @@ Landing Page designed exclusively to showcase photographs, focused on providing 
 
 # **💬TECHNOLOGIES USED**
 
-...
+Used `Typescript`, `Next 13` as development framework, `TailwindCSS` as styling framework, `Clsx` as class constructor, `Husky` for executing Git hooks with `Commitlint/ConventionalCommits` rules, `ESLint` as code linter with `TS Standard` rules, `Prettier` as code formatter, `Pnpm` for package management, `Git` for version control, and `Github` for hosting project's code.
